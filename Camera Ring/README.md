@@ -7,7 +7,7 @@ It can also be used as an umbilical ring or a passthrough for any payloads that 
 Such payloads can mount to the ring via the screw holes surrounding the windows.
 
 ## Bulkhead
-[Drawing](Camera\ Bulkhead.PDF)  
+[Drawing](Camera%20Bulkhead.PDF)  
 The inner hub, spokes, and outer rim are each rated to 150 pounds force. (FS=1.3)
 Although this totals to 450 pounds force, no more than 150 should ever be applied to a single region.
 (Can asymmetric loads push the FS below 1.3 while following these rules?)
