@@ -23,3 +23,14 @@ This is intended for use in the camera module, but can be used in any module.
 This bracket can be machined on any manual mill.
 It attaches the bulkhead to the inside of the ring.
 Every hole gets a 4-40 helicoil.
+
+### Camera Master Controller Board
+[Drawing](cameraMasterBoard.PDF)  
+This holds the pixie-wrangling devices that turn the cameras on simultaneously and power said cameras.
+It also probably powers other things on the rocket, at least on L-13.
+
+### Battery Box
+[Part](batteryBox.SLDPRT)  
+This holds the battery that powers the cameras. 
+It's intended to be FDM printed out of PLA.
+You can probably get away with a relatively low infill (30%?), as long as you use a decent wall thiccness (1 to 2 mm).
