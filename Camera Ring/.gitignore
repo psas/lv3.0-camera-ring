@@ -1,6 +1,0 @@
-# STL files
-*.STL
-
-# SW simulation files
-*.cwr
-*.opm
