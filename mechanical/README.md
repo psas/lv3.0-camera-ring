@@ -1,5 +1,6 @@
 # Structure for the Camera Ring
-![](cameraRing.png)
+![](cameraRing.png)  
+![](cameraRing_sectioned.png)  
 
 ## Ring
 [Drawing](structure/passthroughRing.pdf)  
