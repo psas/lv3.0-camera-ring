@@ -36,3 +36,8 @@ It also probably powers other things on the rocket, at least on L-13.
 This holds the battery that powers the cameras. 
 It's intended to be FDM printed out of PLA.
 You can probably get away with a relatively low infill (30%?), as long as you use a decent wall thiccness (1 to 2 mm).
+
+### Camera Cradles
+[Drawing](mechanical/camera/cradleAssemblyGuide.PDF)
+These 3D-printed parts hold the cameras in the rings and provide a smoothed cowling to reduce their addition to the drag.
+They also hold the individual controller boards in a fixed location next to the cameras.
