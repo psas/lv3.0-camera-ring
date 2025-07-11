@@ -1,0 +1,4 @@
+(sym_lib_table
+  (version 0)
+  (lib (name "camera-controller-eagle-import")(type "KiCad")(uri "${KIPRJMOD}/camera-controller-eagle-import.kicad_sym")(options "")(descr ""))
+)
